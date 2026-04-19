@@ -30,7 +30,7 @@ const ItaPlyr = {
   projects: {
     rolimons: {
       name: "API Wrapper",
-      link: "https://google.com"
+      link: "https://github.com/ItaPlyr/Rolimons"
     }
   }
 }
@@ -40,11 +40,11 @@ const ItaPlyr = {
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/ItaPlyr/rolimons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItaPlyr&repo=YOUR-REPO-1&theme=tokyonight" />
+<a href="https://github.com/ItaPlyr/ItaPlyr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItaPlyr&repo=ItaPlyr&theme=tokyonight" />
 </a>
-<a href="https://github.com/ItaPlyr/YOUR-REPO-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItaPlyr&repo=YOUR-REPO-2&theme=tokyonight" />
+<a href="https://github.com/ItaPlyr/rolimons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItaPlyr&repo=rolimons&theme=tokyonight" />
 </a>
 
 ---
